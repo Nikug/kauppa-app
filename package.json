@@ -1,0 +1,11 @@
+{
+  "name": "kauppa-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "cd server && npm run dev",
+    "install": "cd client && npm install && cd ../server && npm install"
+  },
+  "author": "Niku Grönberg",
+  "license": "ISC"
+}
